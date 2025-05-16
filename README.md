@@ -30,7 +30,7 @@ Digite o número do CEP que deseja consultar:
 **01001-000**
 
 ### Saída no console:
-Endereco[cep=01001-000, logradouro=Praça da Sé, ...]
+[cep=01001-000, logradouro=Praça da Sé, ...]
 
 Arquivo gerado: `01001-000.json`
   
@@ -51,7 +51,7 @@ Este projeto foi desenvolvido como parte dos estudos sobre **API REST**, **requi
 Feito por **Petterson Oliveira**  
 Aluno do programa **Oracle Next Education - ONE** 🚀  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pettersonoliveirati/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pettersonoliveirati/)  |
 📁 [GitHub](https://github.com/PettersonnOliveira)
 
 
